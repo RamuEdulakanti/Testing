@@ -9,7 +9,12 @@ Rebase code`
 updating rebase code again
 
 
+testing pull and fetch
 
 adding merge code`
 
+
 editing main after the commit in cloud
+
+updating merge code
+
