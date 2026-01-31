@@ -5,7 +5,12 @@ Main branch code
 
 Rebase code`
 
+
 updating rebase code again
 
 
 testing pull and fetch
+
+adding merge code`
+
+updating merge code
